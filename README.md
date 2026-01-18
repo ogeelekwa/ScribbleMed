@@ -21,8 +21,8 @@ ScribbleMed is an automated medical scribe that streamlines patient consultation
 
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/yourusername/clinical-ai-notetaker.git](https://github.com/yourusername/clinical-ai-notetaker.git)
-    cd clinical-ai-notetaker
+    git clone [https://github.com/yourusername/ScribbleMed.git](https://github.com/yourusername/ScribbleMed.git)
+    cd ScribbleMed
     ```
 
 2.  **Set up Virtual Environment**
