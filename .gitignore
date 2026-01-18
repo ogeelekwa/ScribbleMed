@@ -1,0 +1,29 @@
+# --- Python Standard ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+
+# --- Environment Variables (CRITICAL) ---
+# Never upload this file. It contains your API keys.
+.env
+
+# --- Project Specific (Generated Files) ---
+# Ignore the PDFs created during runtime
+generated_pdfs/
+*.pdf
+
+# Ignore temporary audio files created during processing
+temp_*
+*.wav
+*.mp3
+*.m4a
+
+# --- OS & Editor ---
+.DS_Store
+.vscode/
+.idea/
